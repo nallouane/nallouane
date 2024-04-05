@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">A passionate DevOps engineer from London, UK</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
